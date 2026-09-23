@@ -7,6 +7,7 @@ here.
 
 | Engagement | Report | SHA-256 |
 | --- | --- | --- |
+| CIP-113: First Module | [2026-09-22](cip-113-1st-module/2026-09-22-cip-113-1st-module.pdf) | `f3e44e142979c216051bf2d87f9def1719701d254c26c157c31d5efdcefe2bbc` |
 | FluidTokens: Loans V3 Resellable Loans | [2026-04-06](fluidtokens/2026-04-06-loans-v3-resellable-loans.pdf) | `583f00bd37b5d4909f1a1d3be1e48bef8572d5de2ad2145a7319e285f39828ca` |
 | Lace: Browser Extension Security Assessment Round 2 | [2026-02-27](lace/2026-02-27-browser-extension-round-2.pdf) | `db94081349638ad48b1593bba8363751ed783cb10827092ee1426aa08a909496` |
 | FluidTokens: Cardano Loans V3 New Liquidation | [2026-02-27](fluidtokens/2026-02-27-cardano-loans-v3-new-liquidation.pdf) | `60068072e1ef13cba14cd2a789ebe9176b77a8534e6a4d8a550553456cb511ae` |

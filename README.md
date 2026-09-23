@@ -11,6 +11,7 @@ contains approved final reports for completed client engagements.
 
 | Project | Audited system | Technology | Completed | Report |
 | --- | --- | --- | --- | --- |
+| CIP-113 | First module | Cardano · Aiken | 2026-09-22 | [PDF](audits/cip-113-1st-module/2026-09-22-cip-113-1st-module.pdf) |
 | <a href="https://github.com/FluidTokens/ft-cardano-loans-v3"><img src="assets/clients/fluidtokens.png" width="44" alt="FluidTokens logo"><br><strong>FluidTokens</strong></a> | Loans V3: resellable loan flows | Cardano · Aiken | 2026-04-06 | [PDF](audits/fluidtokens/2026-04-06-loans-v3-resellable-loans.pdf) |
 | <a href="https://github.com/input-output-hk/lace-platform"><img src="assets/clients/lace.svg" width="44" alt="Lace logo"><br><strong>Lace</strong></a> | Browser Extension security assessment: round 2 | Browser extension · TypeScript | 2026-02-27 | [PDF](audits/lace/2026-02-27-browser-extension-round-2.pdf) |
 | <a href="https://github.com/FluidTokens/ft-cardano-loans-v3"><img src="assets/clients/fluidtokens.png" width="44" alt="FluidTokens logo"><br><strong>FluidTokens</strong></a> | Cardano Loans V3: new liquidation flows | Cardano · Aiken | 2026-02-27 | [PDF](audits/fluidtokens/2026-02-27-cardano-loans-v3-new-liquidation.pdf) |
